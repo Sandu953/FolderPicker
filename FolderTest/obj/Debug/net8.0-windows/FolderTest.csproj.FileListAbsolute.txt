@@ -1,0 +1,16 @@
+C:\Users\probook\source\repos\FolderTest\bin\Debug\net8.0-windows\FolderTest.exe
+C:\Users\probook\source\repos\FolderTest\bin\Debug\net8.0-windows\FolderTest.deps.json
+C:\Users\probook\source\repos\FolderTest\bin\Debug\net8.0-windows\FolderTest.runtimeconfig.json
+C:\Users\probook\source\repos\FolderTest\bin\Debug\net8.0-windows\FolderTest.dll
+C:\Users\probook\source\repos\FolderTest\bin\Debug\net8.0-windows\FolderTest.pdb
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.Form1.resources
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.csproj.GenerateResource.cache
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.AssemblyInfoInputs.cache
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.AssemblyInfo.cs
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.csproj.CoreCompileInputs.cache
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.dll
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\refint\FolderTest.dll
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.pdb
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\FolderTest.genruntimeconfig.cache
+C:\Users\probook\source\repos\FolderTest\obj\Debug\net8.0-windows\ref\FolderTest.dll
